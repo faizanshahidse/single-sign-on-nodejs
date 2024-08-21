@@ -2,7 +2,8 @@
 
 ## Packages
 
--
+- npm i express
+- npm i nodemon
 
 ## Installation
 
